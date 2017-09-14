@@ -1,0 +1,23 @@
+{
+  "name": "loading-bar",
+  "version": "1.1.0",
+  "description": "Test with Mongo and npm modules",
+  "author": "ANR",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "dependencies": {
+    "angular": "^1.6.6",
+    "@uirouter/angularjs": "^1.0.3",
+    "bluebird": "^3.3.4",
+    "body-parser": "^1.15.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "express-partials": "^0.3.0",
+    "express-session": "^1.13.0",
+    "mongoose": "^4.10.5",
+    "request": "^2.34.0"
+  }
+}
